@@ -2,6 +2,8 @@
 
 # Mockup - Skin for JW6
 
+<img src="https://github.com/mrwii/mockup-skin-for-jw6/blob/master/preview-mockup-skin.jpg" alt="Preview: Mockup - Skin for JW6" title="Preview: Mockup - Skin for JW6"/>
+
 <h2>Features</h2>
 <ul>
   <li>Skin for <a href="https://support.jwplayer.com/customer/portal/topics/826390-jw6-only/articles" target="_blank">JW Player 6</a>: Free, Pro, Premium, Enterprise, Ads</li>
