@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Mockup - Skin for JW6</title>
+<style>
+    body { padding: 50px 100px; width: 900px; font: 13px/20px Arial; background: #D2D1D0; }
+    a , h1, h2{ color: #369; }
+    h1 { font-size: 32px; }
+    h2 { margin-top: 50px; }
+    h3 { margin-top: 25px; }
+    pre { font-size: 12px; background: #E5F3C8; padding:5px 10px; border: 1px solid #D3EAA4; }
+    dd { color: #333; font-style: italic; }
+</style>
+</head>
+<body>
+
+
+<h1>Mockup - Skin for JW6</h1>
+
+<h2>Features</h2>
+
+<ul>
+  <li>Skin for JW Player 6 that is the most popular video player on the web, live on over 2 million sites</li>
+  <li>Skin with Mockup Style</li>
+  <li>Skin for JW6 HTML5 Player, Flash Player, Mobile</li>
+  <li>Skin based on PNG and Base64</li>
+  <li>PSD files included and Well Documented</li>
+  <li>Other Skins: <a href="http://activeden.net/user/TanVu/portfolio" target="_blank">Flat Skin for JW6</a></li>
+</ul>
+
+<p><img alt="Flast Skin for JW Player 6.6" src="assets/preview.jpg" style="margin-left: 10px" /></p>
+
+
+<h2>Configuration Options</h2>
+
+<p>This skin can be build on JW Player 6 or added to your player embeds. After upload it to your webserver, simply set the <b>skin</b> configuration option to the path where you uploaded the XML file.</p>
+
+<dl>
+<dt><b>skin</b> (<em>URL</em>)</dt>
+<dd>Location of the XML skin. This can be:
+<ul>
+  <li>An absolute path (e.g. http://example.com/skins/mockup.xml)</li>
+  <li>A domain-absolute path (e.g. /skins/mockup.xml)</li>
+  <li>A path relative to the HTML file (e.g. ../skins/mockup.xml)</li>
+</ul>
+</dd>
+</dl>
+
+<h3>Example Setup</h3>
+
+<p>Here is an example embed code of Flat Skin for JW Player 6 using the <a href="http://www.longtailvideo.com/support/jw-player/28839/embedding-the-player" target="_blank">JW Embedder</a>. This is a specifically if you are looking for: Seamless failover between the Flash and HTML5 modes and Automatic integration with the JavaScript API.</p>
+
+<b>Add library to &lt;head&gt;</b>
+<pre>
+&lt;script type="text/javascript" src="./jwplayer/jwplayer.js" &gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;jwplayer.key="YOUR_JW_PLAYER_KEY";&lt;/script&gt;
+</pre>
+<br>
+<b>Add library to &lt;body&gt;</b>
+<pre>
+&lt;p id="myVideo"&gt;The player will be placed here&lt;/p&gt;
+&lt;script type="text/javascript"&gt;
+jwplayer("myVideo").setup({
+    file: "/uploads/example.mp4",
+    height: 360,
+    image: "/uploads/example.jpg",
+    skin: "/uploads/mockup.xml",
+    width: 640
+});
+&lt;/script&gt;
+</pre>
+
+
+<h2>Reference</h2>
+
+<ul>
+  <li>JW Player 6 <a href="http://www.longtailvideo.com/support/jw-player" target="_blank">support</a></li>
+  <li>Learn more about <a href="http://www.longtailvideo.com/support/jw-player/28846/using-jw-player-skins" target="_blank">Using JW Player Skins</a></li>
+  <li>Learn more about <a href="http://www.longtailvideo.com/support/jw-player/28847/building-jw-player-skins" target="_blank">Building JW Player Skins</a></li>
+  <li>Learn more about <a href="http://www.longtailvideo.com/support/jw-player/28849/skin-xml-reference" target="_blank">Skin XML Reference</a></li>
+  <li>The free <a href="http://www.askapache.com/online-tools/base64-image-converter/" target="_blank">base64 image online</a> service</li>
+  <li>The free <a href="https://github.com/hollandben/base64-image-encoder" target="_blank">base64 image offline</a> encoder</li>
+  <li>JW Player <a href="http://developer.longtailvideo.com/trac/" target="_blank">Developer Site</a></li>
+  <li>JW Player <a href="http://developer.longtailvideo.com/trac/browser" target="_blank">Source Code</a></li>
+  <li>How to <a href="http://developer.longtailvideo.com/trac/browser/trunk/jw6/README.txt" target="_blank">build</a> JW Player from source</li>
+  <li>How to <a href="./How to change the colour of images in Photoshop.html" target="_blank">change the colour of images in Photoshop</a></li>
+</ul>
+
+
+<h2>Changelog</h2>
+
+
+<h4>Version 1.0</h4>
+
+<ul>
+  <li>Launch: The launch of the Mockup Skin project - 1 January 2014.</li>
+  <li>Other Skins: <a href="http://activeden.net/user/TanVu/portfolio" target="_blank">Flat Skin for JW6</a></li>
+</ul>
+
+
+
+<h2>Support</h2>
+
+<p>If you have any questions that are not answered in this userguide, or any bugs to report, please contact me via email through my ActiveDen profile. Contacting through ActiveDen will prove that you purchased the file.</p>
+
+<p><a href="http://activeden.net/user/TanVu">http://activeden.net/user/TanVu</a></p>
+
+
+</body>
+</html>
