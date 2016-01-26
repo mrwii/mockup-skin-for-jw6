@@ -1,5 +1,3 @@
-<img height="70px" src="http://www.jwplayer.com/wp-content/uploads/JWP-GitHub-Banner-1.png" alt="JW Player Logo" title="JW Player Logo"/><img height="120px" src="https://github.com/mrwii/mockup-skin-for-jw6/blob/master/jwplayer-skins.png" alt="JW Player Skins" title="JW Player Skins"/>
-
 # Mockup - Skin for JW6
 
 <img src="https://github.com/mrwii/mockup-skin-for-jw6/blob/master/preview-mockup-skin.jpg" alt="Preview: Mockup - Skin for JW6" title="Preview: Mockup - Skin for JW6"/>
@@ -48,3 +46,5 @@
   <li>Skins for JW7: <a href="http://codecanyon.net/item/flat-skin-retina-for-jw7/12752001?ref=FaceTheme" target="_blank">Flat</a>, Long Shadow, AIR, <a href="http://codecanyon.net/item/thin-skin-retina-for-jw7/13834750?ref=FaceTheme" target="_blank">Thin</a> Skins</li>
   <li>Skin for <a href="http://codecanyon.net/item/flat-skin-retina-for-videojs-4/12996945?ref=FaceTheme" target="_blank">VideoJS 4</a>, <a href="http://codecanyon.net/item/flat-skin-retina-for-videojs-5/14291168?ref=FaceTheme" target="_blank">VideoJS 5</a></li>
 </ul>
+
+<img height="41px" src="https://github.com/mrwii/mockup-skin-for-jw6/blob/master/logo_mockup.png" alt="Logo Mockup skin" title="Logo Mockup skin"/>  <img height="60px" src="http://www.jwplayer.com/wp-content/uploads/JWP-GitHub-Banner-1.png" alt="JW Player Logo" title="JW Player Logo"/>  <img height="110px" src="https://github.com/mrwii/mockup-skin-for-jw6/blob/master/jwplayer-skins.png" alt="JW Player Skins" title="JW Player Skins"/>
