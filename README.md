@@ -2,9 +2,7 @@
 
 <img src="https://github.com/mrwii/mockup-skin-for-jw6/blob/master/preview-mockup-skin.jpg" alt="Preview: Mockup - Skin for JW6" title="Preview: Mockup - Skin for JW6"/>
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XFCKSUFLUZMTS&lc=VN&item_name=Mr%2e%20Wii%20%20Studio&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPalDonate with PayPal" width="92" height="26"></a>
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XFCKSUFLUZMTS&lc=VN&item_name=Mr%2e%20Wii%20%20Studio&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" target="_blank">Buy me a beer</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XFCKSUFLUZMTS&lc=VN&item_name=Mr%2e%20Wii%20%20Studio&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPalDonate with PayPal" width="92" height="26"></a><br/><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XFCKSUFLUZMTS&lc=VN&item_name=Mr%2e%20Wii%20%20Studio&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" target="_blank">Buy me a beer</a>
 
 <h2>Features</h2>
 <ul>
