@@ -1,4 +1,4 @@
-# <img height="70px" src="http://www.jwplayer.com/wp-content/uploads/JWP-GitHub-Banner-1.png" alt="JW Player Logo" title="JW Player Logo"/>
+<img height="70px" src="http://www.jwplayer.com/wp-content/uploads/JWP-GitHub-Banner-1.png" alt="JW Player Logo" title="JW Player Logo"/><img height="120px" src="https://github.com/mrwii/mockup-skin-for-jw6/blob/master/jwplayer-skins.png" alt="JW Player Skins" title="JW Player Skins"/>
 
 # Mockup - Skin for JW6
 
