@@ -44,7 +44,7 @@
 
 <h2>Other Skins</h2>
 <ul>
-  <li><a href="http://codecanyon.net/user/facetheme/portfolio?ref=FaceTheme" target="_blank">Skins for JW6</a>: <a href="http://codecanyon.net/item/flat-skin-for-jw6/14395880?ref=FaceTheme" target="_blank">Flat</a>, <a href="http://codecanyon.net/item/vskin-for-jw6/14584027?ref=FaceTheme" target="_blank">vSkin</a>, Mockup, Long Shadow, AIR, Gloss, <a href="http://codecanyon.net/item/thin-skin-for-jw6/14429939?ref=FaceTheme" target="_blank">Thin</a> Skins</li>
+  <li>Skins for JW6: <a href="http://codecanyon.net/item/flat-skin-for-jw6/14395880?ref=FaceTheme" target="_blank">Flat</a>, <a href="http://codecanyon.net/item/vskin-for-jw6/14584027?ref=FaceTheme" target="_blank">vSkin</a>, <a href="https://github.com/mrwii/mockup-skin-for-jw6" target="_blank">Mockup</a> <strong>free</strong>, Long Shadow, <a href="http://codecanyon.net/item/air-skin-for-jw6/15106240?ref=FaceTheme" target="_blank">AIR</a>, Gloss, <a href="http://codecanyon.net/item/thin-skin-for-jw6/14429939?ref=FaceTheme" target="_blank">Thin</a> Skins</li>
   <li>Skins for JW7: <a href="http://codecanyon.net/item/flat-skin-retina-for-jw7/12752001?ref=FaceTheme" target="_blank">Flat</a>, Long Shadow, AIR, <a href="http://codecanyon.net/item/thin-skin-retina-for-jw7/13834750?ref=FaceTheme" target="_blank">Thin</a> Skins</li>
   <li>Skin for <a href="http://codecanyon.net/item/flat-skin-retina-for-videojs-4/12996945?ref=FaceTheme" target="_blank">VideoJS 4</a>, <a href="http://codecanyon.net/item/flat-skin-retina-for-videojs-5/14291168?ref=FaceTheme" target="_blank">VideoJS 5</a></li>
 </ul>
